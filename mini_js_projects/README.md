@@ -1,0 +1,1 @@
+# This directory contains a collection of mini projects built with Vanilla JS.
