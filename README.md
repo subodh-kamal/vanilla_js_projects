@@ -1,1 +1,1 @@
-# This repository is the collection of vanilla js projects
+# This repository is a collection of Vanilla JS projects.
